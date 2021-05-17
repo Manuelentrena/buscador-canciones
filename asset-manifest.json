@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/buscador-canciones/static/css/main.db8a6be3.chunk.css",
+    "main.js": "/buscador-canciones/static/js/main.58286bcb.chunk.js",
+    "main.js.map": "/buscador-canciones/static/js/main.58286bcb.chunk.js.map",
+    "runtime-main.js": "/buscador-canciones/static/js/runtime-main.e7566954.js",
+    "runtime-main.js.map": "/buscador-canciones/static/js/runtime-main.e7566954.js.map",
+    "static/js/2.65b7e55e.chunk.js": "/buscador-canciones/static/js/2.65b7e55e.chunk.js",
+    "static/js/2.65b7e55e.chunk.js.map": "/buscador-canciones/static/js/2.65b7e55e.chunk.js.map",
+    "index.html": "/buscador-canciones/index.html",
+    "static/css/main.db8a6be3.chunk.css.map": "/buscador-canciones/static/css/main.db8a6be3.chunk.css.map",
+    "static/js/2.65b7e55e.chunk.js.LICENSE.txt": "/buscador-canciones/static/js/2.65b7e55e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e7566954.js",
+    "static/js/2.65b7e55e.chunk.js",
+    "static/css/main.db8a6be3.chunk.css",
+    "static/js/main.58286bcb.chunk.js"
+  ]
+}
